@@ -1,0 +1,3 @@
+1° - Instalar o Framework: Flask:
+    - pip install flask
+    - pip install Flask-SQLAlchemy
