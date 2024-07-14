@@ -1,3 +1,9 @@
 1° - Instalar o Framework: Flask:
     - pip install flask
     - pip install Flask-SQLAlchemy
+    - pip install flask-login flask-bcrypt
+
+
+      import secrets
+      print(secrets.token_hex(16))
+    
